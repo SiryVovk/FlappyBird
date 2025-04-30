@@ -546,7 +546,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 361ac069e6dc99e40b3d88a9a52b946c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 8
 --- !u!114 &6219334050161040406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -559,8 +559,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53aeaa24508e2b44a9680ec2c1f1647b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionXMoveTo: 40
-  positionXMoveFrom: -20
+  positionXMoveTo: 30
+  positionXMoveFrom: -30
 --- !u!61 &3410102389571933312
 BoxCollider2D:
   m_ObjectHideFlags: 0
